@@ -1,4 +1,4 @@
-# Master Service Companies Email Signature Generator for Microsoft Outlook
+# Desert Attic Solutions  Email Signature Generator for Microsoft Outlook
 
 > A Vue.js ^2.5.2 project
 
