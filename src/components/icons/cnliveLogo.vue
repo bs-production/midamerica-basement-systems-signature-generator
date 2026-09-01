@@ -19,7 +19,7 @@ export default {
   props: {
     iconColorOne: {
       type: String,
-      default: '#FF7F30'
+      default: '#f27eae'
     },
     iconColorTwo: {
       type: String,

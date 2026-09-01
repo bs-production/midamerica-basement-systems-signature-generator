@@ -1,4 +1,4 @@
-# Desert Attic Solutions  Email Signature Generator for Microsoft Outlook
+# MidAmerica Basement Systems  Email Signature Generator for Microsoft Outlook
 
 > A Vue.js ^2.5.2 project
 

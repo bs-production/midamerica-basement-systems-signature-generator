@@ -5,7 +5,7 @@
       <div class="hero-body">
         <div class="container">
           <div class="th-logo has-text-centered">
-            <img src="https://cdn.treehouseinternetgroup.com/cms_images/4230/logo-desert-attic-solutions.jpg" alt="" style="width:250px">
+            <img src="https://cdn.treehouseinternetgroup.com/cms_images/66/MidAmericaBS_2C_RGB.png" alt="" style="width:250px">
           </div>
         <h1 class="sub-text title has-text-centered">
             <p>Signature Generator</p> 
@@ -62,7 +62,7 @@
 
           <div class="gif-box level-item has-text-centered">
             <ul>
-              <li>1. Place cursor at the top-left corner of Desert Attic Solutionss logo and click & drag to bottom-right corner of the disclaimer</li>
+              <li>1. Place cursor at the top-left corner of MidAmerica Basement Systemss logo and click & drag to bottom-right corner of the disclaimer</li>
               <li>2. Paste into Outlook signatures in preferences panel</li>
               <li>3. Adjust logo size if needed</li>
             </ul>
@@ -76,7 +76,7 @@
         <div class="container">
             <div class="content has-text-centered">
                 <p>
-                    &copy;2026 Desert Attic Solutions 
+                    &copy;2026 MidAmerica Basement Systems 
                 </p>
             </div>
         </div>
@@ -159,7 +159,7 @@ li {
   margin-left: 1px;
   background-color: #efefef;
   padding: 20px;
-  border-top: 1px dashed #21409a;
+  border-top: 1px dashed #002950;
 }
 .gif-box ul {
     text-align:left;
@@ -202,33 +202,33 @@ input:disabled {
   margin-right: 100px;
 }
 .hero.is-primary {
-  background-color: #fff;
-  border-bottom: 1px solid #21409a;
+  background-color: #002950;
+  border-bottom: 1px solid #002950;
 }
 .button {
   margin-top: 10px;
 }
 .button.is-success, .button.is-success[disabled] {
-  background-color: #21409a;
+  background-color: #002950;
   border-color: transparent;
   color: #fff;
 }
 .button.is-success.is-hovered,
 .button.is-success:hover {
-  background-color: #FF7F30;
+  background-color: #f27eae;
   border-color: transparent;
   color: #fff;
 }
 .input:focus {
-  border-color: #FF7F30;
+  border-color: #f27eae;
   box-shadow: 0 0 0 0.125em rgba(119, 187, 70, 0.25);
 }
 .sub-text {
   margin-left: 10px;
-  margin-top: 10px;
+  margin-top: 2rem;
 }
 .sub-text p {
-  color: #9a9a35;
+  color: #f27eae;
   font-family: "Barlow Condensed", sans-serif;
   font-weight: 700;
   font-size: 32px;
@@ -237,7 +237,7 @@ input:disabled {
   padding: 1.5rem 1.5rem;
 }
 .input:focus {
-  border-color: #FF7F30;
+  border-color: #f27eae;
   box-shadow: 0 0 0 0.125em rgba(119, 187, 70, 0.25);
 }
 .fade-enter-active,
